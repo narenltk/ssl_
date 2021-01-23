@@ -1,4 +1,3 @@
-# ssl_
 # Node Js app with Express and Nodemon and OpenSSl
 
 Here you can get the code in server.js for creating your own ssl and integrate it with your application.
