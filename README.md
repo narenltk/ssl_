@@ -45,6 +45,15 @@ or
 nodemon server.js
 ```
 
+
+<p align="center">
+  <img src="cert/node_server_js.png">
+</p>
+
 checkout "https://localhost:3030"
 
 I have used the port 3030 and you can change the port to any number you like.
+
+<p align="center">
+  <img src="cert/google_narenltk.png">
+</p>
