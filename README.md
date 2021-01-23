@@ -9,6 +9,6 @@ If your directly going to clone this git repo then you may follow the steps give
 
 1. Open your terminal and git clone with the following command
 
-'''
+```
 git clone https://github.com/narenltk/ssl_.git
-'''
+```
