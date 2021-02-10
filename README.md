@@ -4,6 +4,8 @@
 
 # Node Js app with Express, Nodemon and OpenSSl
 
+## Medium Blog [Link](https://narenltk.medium.com/generate-ssl-certificate-using-node-js-for-web-apps-73d452ad5898)
+
 Here you can get the code in server.js for creating your own ssl and integrate it with your application.
 
 If your directly going to clone this git repo then you may follow the steps given below and do it. 
